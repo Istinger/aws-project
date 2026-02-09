@@ -124,5 +124,23 @@
     "porcentajeExcedente": 0,
     "excedente": 1761.3999999999996,
     "impuestoRenta": 0
+  },
+  {
+    "cedula": "1750764175",
+    "sueldoAnual": 15888,
+    "deducciones": {
+      "alimentacion": 3000,
+      "vivienda": 3000,
+      "educacion": 3000,
+      "vestimenta": 3000,
+      "salud": 3000,
+      "total": 15000
+    },
+    "baseImponible": 888,
+    "fraccionBasica": 0,
+    "impuestoFraccionBasica": 0,
+    "porcentajeExcedente": 0,
+    "excedente": 888,
+    "impuestoRenta": 0
   }
 ]
