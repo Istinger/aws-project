@@ -1,0 +1,128 @@
+[
+  {
+    "cedula": "1750764175",
+    "sueldoAnual": 15000,
+    "deducciones": {
+      "alimentacion": 400,
+      "vivienda": 500,
+      "educacion": 2000,
+      "vestimenta": 3000,
+      "salud": 1500,
+      "total": 7400
+    },
+    "baseImponible": 7600,
+    "fraccionBasica": 0,
+    "impuestoFraccionBasica": 0,
+    "porcentajeExcedente": 0,
+    "excedente": 7600,
+    "impuestoRenta": 0
+  },
+  {
+    "cedula": "1750764175",
+    "sueldoAnual": 15300,
+    "deducciones": {
+      "alimentacion": 400,
+      "vivienda": 500,
+      "educacion": 2000,
+      "vestimenta": 3000,
+      "salud": 1500,
+      "total": 7400
+    },
+    "baseImponible": 7900,
+    "fraccionBasica": 0,
+    "impuestoFraccionBasica": 0,
+    "porcentajeExcedente": 0,
+    "excedente": 7900,
+    "impuestoRenta": 0
+  },
+  {
+    "cedula": "1750764175",
+    "sueldoAnual": 15300,
+    "deducciones": {
+      "alimentacion": 400,
+      "vivienda": 500,
+      "educacion": 2000,
+      "vestimenta": 3000,
+      "salud": 1500,
+      "total": 7400
+    },
+    "baseImponible": 7900,
+    "fraccionBasica": 0,
+    "impuestoFraccionBasica": 0,
+    "porcentajeExcedente": 0,
+    "excedente": 7900,
+    "impuestoRenta": 0
+  },
+  {
+    "cedula": "1750764175",
+    "sueldoAnual": 15300,
+    "deducciones": {
+      "alimentacion": 400,
+      "vivienda": 500,
+      "educacion": 2000,
+      "vestimenta": 3000,
+      "salud": 1500,
+      "total": 7400
+    },
+    "baseImponible": 7900,
+    "fraccionBasica": 0,
+    "impuestoFraccionBasica": 0,
+    "porcentajeExcedente": 0,
+    "excedente": 7900,
+    "impuestoRenta": 0
+  },
+  {
+    "cedula": "1750764175",
+    "sueldoAnual": 15300,
+    "deducciones": {
+      "alimentacion": 3809.65,
+      "vivienda": 3809.65,
+      "educacion": 3809.65,
+      "vestimenta": 3809.65,
+      "salud": 15238.6,
+      "total": 15238.6
+    },
+    "baseImponible": 61.399999999999636,
+    "fraccionBasica": 0,
+    "impuestoFraccionBasica": 0,
+    "porcentajeExcedente": 0,
+    "excedente": 61.399999999999636,
+    "impuestoRenta": 0
+  },
+  {
+    "cedula": "1750764175",
+    "sueldoAnual": 15238.6,
+    "deducciones": {
+      "alimentacion": 3809.65,
+      "vivienda": 3809.65,
+      "educacion": 3809.65,
+      "vestimenta": 3809.65,
+      "salud": 15238.6,
+      "total": 15238.6
+    },
+    "baseImponible": 0,
+    "fraccionBasica": 0,
+    "impuestoFraccionBasica": 0,
+    "porcentajeExcedente": 0,
+    "excedente": 0,
+    "impuestoRenta": 0
+  },
+  {
+    "cedula": "1750764175",
+    "sueldoAnual": 17000,
+    "deducciones": {
+      "alimentacion": 3809.65,
+      "vivienda": 3809.65,
+      "educacion": 3809.65,
+      "vestimenta": 3809.65,
+      "salud": 15238.6,
+      "total": 15238.6
+    },
+    "baseImponible": 1761.3999999999996,
+    "fraccionBasica": 0,
+    "impuestoFraccionBasica": 0,
+    "porcentajeExcedente": 0,
+    "excedente": 1761.3999999999996,
+    "impuestoRenta": 0
+  }
+]
