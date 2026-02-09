@@ -2,11 +2,12 @@ const express = require('express');
 const cors = require('cors');
 const fs = require('fs/promises');
 const path = require('path');
+const app = require('./app');
 
-const app = express();
 
 app.use(cors());
 app.use(express.json());
+require('./database');
 
 const dataPath = path.join(__dirname, '../frontend/src/assets/gastos.json');
 const impuestosPath = path.join(__dirname, './data/impuestos.json');
@@ -21,8 +22,11 @@ async function readImpuestos() {
     return raw ? JSON.parse(raw) : [];
 }
 
-app.listen(3000, () => {
-    console.log('Servidor escuchando en el puerto 3000');
+
+
+app.listen(app.get('puerto'), () => {
+  console.log('Nombre de la App', app.get('nombreApp'));
+  console.log('Puerto del servidor', app.get('puerto'));
 });
 
 app.get('/', (req, res) => {
